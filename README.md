@@ -39,9 +39,13 @@ To run CodeShare locally, follow these steps:
    3. Open the application in your browser:
        http://localhost:5173
 
-**Configuration**
+   
+
+##Configuration
+
 MongoDB connection details can be configured in the `config.js` file.
 
-**Acknowledgments**
+##Acknowledgments
+
 Special thanks to CodeMirror code Editor for providing a powerful code editor.
 
