@@ -41,11 +41,11 @@ To run CodeShare locally, follow these steps:
 
    
 
-##Configuration
+## Configuration
 
-MongoDB connection details can be configured in the `config.js` file.
+- MongoDB connection details can be configured in the `config.js` file.
 
-##Acknowledgments
+## Acknowledgments
 
-Special thanks to CodeMirror code Editor for providing a powerful code editor.
+- Special thanks to CodeMirror code Editor for providing a powerful code editor.
 
